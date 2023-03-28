@@ -18,4 +18,4 @@ requirements.txt
 `http://127.0.0.1:8002/docs` - customer service   
 
 ## application design diagram
-diagram.png
+![diagram](https://user-images.githubusercontent.com/61321903/228105816-0b4b675c-3bf7-4b52-99ea-b6e44c101ff7.png)
